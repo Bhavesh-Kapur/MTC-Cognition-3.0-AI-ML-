@@ -12,4 +12,6 @@ The Final File for the model would be finalModel.ipynb
 And the model saved file would be ultra.keras 
 rest other files are the practices/ trails 
 
-<img src = '/Users/bhavesh/Documents/GitHub/cognition-3.0/Final-Project/Screenshot 2024-07-22 at 5.03.40 PM.png'>
+
+![image](https://github.com/Bhavesh-Kapur/MTC-Cognition-3.0-AI-ML-/blob/main/Final-Project/Screenshot%202024-07-22%20at%205.03.40%E2%80%AFPM.png)
+
